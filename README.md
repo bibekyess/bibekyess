@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### **Hi there** 👋 🇦🇿
-
-
 Hello! I’m **Bibek** [**B**oy **I**s **B**old, **E**asygoing & **K**ind]. I am passionate about learning new things and want to invent things that ease our daily life. I am particularly intereted in AI and data-driven approaches. I am a 4th Year Undergraduate student at KAIST, South Korea and Double Majoring in Electrical Engineering and Computer Science. I can bring diversity to the table, applying knowledge from various domains of these two majors.
 
 
