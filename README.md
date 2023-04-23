@@ -23,7 +23,7 @@ Hello! I’m **Bibek** [**B**oy **I**s **B**old, **E**asygoing & **K**ind]. I am
 
 [View Resume](https://bibekyess.github.io/CV/)
 
-![Bibek's github stats](https://github-readme-stats.vercel.app/api?username=bibekyess&count_private=true&show_icons=true&theme=dark)<a href="https://github.com/bibekyess">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bibekyess&layout=compact&theme=dark)](https://github.com/bibekyess)</a>
+<!-- ![Bibek's github stats](https://github-readme-stats.vercel.app/api?username=bibekyess&count_private=true&show_icons=true&theme=dark)<a href="https://github.com/bibekyess">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bibekyess&layout=compact&theme=dark)](https://github.com/bibekyess)</a> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bibekyess&" alt="bibekyess" /></p>
 
