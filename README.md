@@ -35,7 +35,8 @@ Hello! I’m **Bibek** [**B**oy **I**s **B**old, **E**asygoing & **K**ind]. I am
  -->
 🐍 **Snake eating my contribution graph**
 <p align="center">
-  <img src="https://github.com/bibekyess/bibekyess/raw/output/github-contribution-grid-snake.svg" alt="snake">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bibekyess/bibekyess/output/github-contribution-grid-snake.svg">
 </center>
 </p>
+
 
