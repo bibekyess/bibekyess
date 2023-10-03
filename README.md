@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 Hello! I’m **Bibek** [**B**oy **I**s **B**old, **E**asygoing & **K**ind]. I am interested in technology-oriented activities that use AI tools to solve any existing problems. With my experience in diverse hands-on 
-[projects](https://kc-bibek.com.np/porfolio_bibek.pdf) and my enthusiasm for continuous learning, I am committed to pursuing new and challenging opportunities in the field of AI and deep learning, in order to expand my knowledge and skills in this rapidly-evolving domain. I am **unikue** [**U**ndergraduate **N**epali **I**n **K**AIST **U**nder **E**lectrical-engineering]. For a quick and easy way to get information about me, try chatting with my [chatbot](https://bibekbot.streamlit.app).
+[projects](https://kc-bibek.com.np/porfolio_bibek.pdf) and my enthusiasm for continuous learning, I am committed to pursuing new and challenging opportunities in the field of AI and deep learning. I am currently working as an MLOps Engineer. For a quick and easy way to get information about me, try chatting with my [chatbot](https://bibekbot.streamlit.app).
 
 [View Resume](https://kc-bibek.com.np/Bibek_CV.pdf)
 
