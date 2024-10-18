@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 </p>
 
 
-Hello! I’m **Bibek** [**B**oy **I**s **B**old, **E**asygoing & **K**ind]. I am interested in technology-oriented activities that use AI tools to solve any existing problems. With my experience in diverse hands-on 
-[projects](https://kc-bibek.com.np/porfolio_bibek.pdf) and my enthusiasm for continuous learning, I am committed to pursuing new and challenging opportunities in the field of AI and deep learning. I am currently working as an MLOps Engineer. For a quick and easy way to get information about me, try chatting with my [chatbot](https://bibekbot.streamlit.app).
+Hello! I’m **Bibek** from Nepal. I enjoy the process of creating complex applications and I love experimenting with new open-source libraries and exploring innovative B2C tech products. My expertise includes managing large-scale project backends, creating user-friendly Python libraries and REST APIs, handling network gateways for SaaS platforms, containerizing and packaging applications, developing robust document parsers and LLM apps like RAGs, and crafting quick demos with intuitive frontends and UX interactions.
+I’m a firm believer in my mantra, `"If they can Do it, I can Do it."`   
+If you want to know more about me, please visit my website and/or chat with my chatbot at [kc-bibek.com.np](https://kc-bibek.com.np).
 
 [View Resume](https://kc-bibek.com.np/Bibek_CV.pdf)
 
