@@ -1,26 +1,14 @@
 ### Hi there 👋
 
-<!--
-**bibekyess/bibekyess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p>
     <a href="mailto:bibekyess@gmail.com"><img src="https://img.shields.io/badge/Email-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
   <a href="https://www.linkedin.com/in/bibek44"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 </p>
 
 
-Hello! I’m **Bibek** from Nepal. I enjoy the process of creating complex applications and I love experimenting with new open-source libraries and exploring innovative B2C tech products. My expertise includes managing large-scale project backends, creating user-friendly Python libraries and REST APIs, handling network gateways for SaaS platforms, containerizing and packaging applications, developing robust document parsers and LLM apps like RAGs, and crafting quick demos with intuitive frontends and UX interactions.
+<img src="./assets/self_attention_demo.gif" alt="Hello! I’m Bibek from Nepal. I enjoy the process of creating complex applications and I love experimenting with new open-source libraries and exploring innovative B2C tech products." />
+
+My experience includes managing large-scale project backends, creating user-friendly Python libraries and REST APIs, handling network gateways for SaaS platforms, containerizing and packaging applications, developing robust document parsers and LLM apps like RAGs, and crafting quick demos with intuitive frontends and UX interactions.
 I’m a firm believer in my mantra, `"If they can Do it, I can Do it."`   
 If you want to know more about me, please visit my website and/or chat with my chatbot at [kc-bibek.com.np](https://kc-bibek.com.np).
 
